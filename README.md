@@ -1,0 +1,3 @@
+# flowdivision
+
+View the akflow.m matlab script. It will do what you need...
