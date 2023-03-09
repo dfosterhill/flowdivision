@@ -2,6 +2,8 @@
 
 View the akflow.m matlab script. It will do what you need...
 
+This analysis looks at 100 Alaskan rivers and creates a graphic based on their hydrographs. The comments in the matlab script document the methods and the data used. Enjoy!
+
 Want to order a shirt? 
 
 Men's version is [here
