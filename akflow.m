@@ -127,16 +127,19 @@ h3=annotation('rectangle');
 h3.FaceColor='blue';
 h3.Color='white';
 h3.Position=[firstbox .03 boxsize boxsize*scalefactor];
+h3.LineWidth=2;
 
 h4=annotation('rectangle');
 h4.FaceColor='magenta';
 h4.Color='white';
 h4.Position=[firstbox+boxoffset+0.03 .03 boxsize boxsize*scalefactor];
+h4.LineWidth=2;
 
 h5=annotation('rectangle');
 h5.FaceColor='cyan';
 h5.Color='white';
 h5.Position=[firstbox+2*boxoffset .03 boxsize boxsize*scalefactor];
+h5.LineWidth=2;
 
 %more text...
 h=annotation('textbox',[firstbox+boxlabeloffset 0.024 0.2 0.05],'String','RAIN');
